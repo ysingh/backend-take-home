@@ -69,6 +69,7 @@ List all warehouses.
 
 
 ## SUBMISSION
+- You can assume that shipping and stocking happens immidiately as soon as the command is issued.
 - Try and write this code as if it will be deployed to production. Including tests.
 - Add documentation needed to run the tests and code to this README.
 - Add your code to a github repository
