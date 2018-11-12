@@ -18,9 +18,9 @@ We will use these 10 commands to enable this functionality:
 9. LIST STORE#
 10. LIST WAREHOUSE#
 
+## Details
 - Our application will take in user input one line at a time.
 
-## Details
 Bold text denotes text that will be entered as-is, italics denote arguments that will be replaced by some value. Optional arguments are surrounded by square brackets([]).
 
 1. **ADD STORE** *STORE#* *[STOCK_LIMIT]*
