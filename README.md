@@ -1,7 +1,9 @@
 # Take Home Assignment for Backend Software Development Candidates at Rooms To Go
 
 Create a command line application to manage product inventory.
+
 Managing product inventory requires adding products to a product catalog, adding stores and warehouses where these products will be stored. 
+
 We stock warehouses with products and finally move products from warehouses to stores.
 
 We will use these 10 commands to enable this functionality: 
