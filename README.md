@@ -45,6 +45,9 @@ Bold text denotes text that will be entered as-is, italics denote arguments that
 6. **LIST WAREHOUSE** *WAREHOUSE#**
 - List information about the warehouse with the given warehouse# along with a listing of all product stocked in the warehouse.
 
+7. **COMMAND HISTORY**
+- Lastly we want you to create a stream that writes the command history to a file and write a function that uses promises to uploads the file to s3.
+
 ## EXAMPLE SESSION
 - Input is prepended with >
 - Example output is not prepended with >.
