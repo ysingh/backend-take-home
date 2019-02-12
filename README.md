@@ -1,4 +1,4 @@
-# Rooms To Go Engineering: Take Home Assignment for Backend Candidates
+# Rooms To Go Engineering: Take Home Assignment
 
 ## How we will run your program
 1. Clone this repository
