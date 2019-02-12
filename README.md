@@ -11,6 +11,7 @@ Thank you for your continued interest in Rooms to Go!
 This at-home coding challenge is an opportunity for you to write some clean code that shows us how you use data structures to solve algorithmic problems.
 
   * Write code as if you were shipping it: Assume you are going to be code reviewed, articulate a test plan, etc.
+  * We expect this solution to be written in nodejs
   * Use your preferred IDE or editor and whatever tooling you're comfortable with.
   * Feel free to use whatever references you'd like, including Google.
   * Your solution does not have to persist data between runs.
@@ -19,7 +20,7 @@ This at-home coding challenge is an opportunity for you to write some clean code
   * Got an idea for a cool feature to add? Do it! We love seeing your creative side
 
 ## Problem Statement
-Create a command line REPL using nodejs to manage product inventory.
+Create a command line REPL to manage product inventory.
 
 Managing product inventory requires adding products to a product catalog and adding warehouses to store the products.
 
