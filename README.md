@@ -1,9 +1,9 @@
 # Rooms To Go Engineering: Take Home Assignment
 
 ## How we will run your program
-1. Clone this repository
-2. npm install
-3. npm start
+1. Clone your repository
+2. npm install (or pip install, if your language does not have a installer please provide a bash script called install.sh)
+3. npm start (another way to run the app)
 4. EOF to quit the REPL
 
 Thank you for your continued interest in Rooms to Go!
@@ -11,7 +11,7 @@ Thank you for your continued interest in Rooms to Go!
 This at-home coding challenge is an opportunity for you to write some clean code that shows us how you use data structures to solve algorithmic problems.
 
   * Write code as if you were shipping it: Assume you are going to be code reviewed, articulate a test plan, etc.
-  * We expect this solution to be written in nodejs
+  * We expect this solution to be written in nodejs, but you are welcome to use another language.
   * Use your preferred IDE or editor and whatever tooling you're comfortable with.
   * Feel free to use whatever references you'd like, including Google.
   * Your solution does not have to persist data between runs.
