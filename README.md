@@ -8,7 +8,7 @@
 
 Thank you for your continued interest in Rooms to Go!
 
-This at-home coding challenge is an opportunity for you to write some clean code that shows us how you use data structures to solve algorithmic problems.
+This at-home coding challenge is an opportunity for you to write some code that shows us how you use data structures to solve algorithmic problems.
 
   * Write code as if you were shipping it: Assume you are going to be code reviewed, articulate a test plan, etc.
   * We expect this solution to be written in nodejs, but you are welcome to use another language.
